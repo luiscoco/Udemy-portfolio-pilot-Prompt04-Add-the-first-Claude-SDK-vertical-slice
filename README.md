@@ -1,4 +1,4 @@
-# PortfolioPilot: First Claude Agent SDK question and answer
+# First Claude Agent SDK question and answer
 
 PortfolioPilot is a teaching project for a stock portfolio manager. This workspace has completed milestones 00–04. The current application has a React demo interface with six pages, fixed sample portfolio and news data, and a working **Assistant** question and answer screen in local development.
 
